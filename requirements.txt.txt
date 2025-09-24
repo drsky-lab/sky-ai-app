@@ -1,0 +1,6 @@
+streamlit
+pillow
+python-dateutil
+pytz
+huggingface_hub
+requests
